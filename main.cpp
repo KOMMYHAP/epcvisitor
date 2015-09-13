@@ -4,7 +4,7 @@
 // Visitor pattern is like adding operators to a component without bother with the details
 // There are other way to create an ECS system. But this ECS is based on the design pattern visitors
 
-// g++ test12.cpp components.cpp componentvisitors.cpp entites.cpp entitysystems.cpp -o test12
+// g++ main.cpp components.cpp componentvisitors.cpp entites.cpp entitysystems.cpp -o main
 
 #include <iostream>
 #include <vector>
